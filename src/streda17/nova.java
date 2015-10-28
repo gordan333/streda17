@@ -12,5 +12,7 @@ package streda17;
  */
 public class nova {
     //djfbdssdbsdbfhsdbf
+    ///fkajshgdkjsgsa
+    //sidjsajdhsa
     
 }
